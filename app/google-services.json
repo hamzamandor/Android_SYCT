@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885903631501",
+    "project_id": "syct-8e1c9",
+    "storage_bucket": "syct-8e1c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885903631501:android:b0c8f19e5b9bb5b960aec4",
+        "android_client_info": {
+          "package_name": "com.example.syct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc5xIlUCblhcJX-TIjCHbIpuhobawAhTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
